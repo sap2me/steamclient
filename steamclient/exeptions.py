@@ -1,0 +1,2 @@
+class UnknownConfigKeyError(Exception):
+	pass
